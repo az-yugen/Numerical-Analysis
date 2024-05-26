@@ -1,6 +1,6 @@
 ## [EEE-2012]. Numerical Analysis
 
-#### Finding Root
+### Finding Root
 
 certain function to find roots of via numerical methods on MATLAB
 ![](<pics/given_f.png>)
@@ -14,11 +14,11 @@ False-position method result on output window:
 
 
 comparison:
-![](<pics/bisection_o.png>)
-![](<pics/false_o.png>)
+![](<pics/bisection_k.png>)
+![](<pics/false_k.png>)
 
 
-#### Gaussian Elimination:
+### Gaussian Elimination:
 
 algorithm result in output window:
 
